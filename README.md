@@ -1,61 +1,90 @@
 # 👋 Hi, I'm Zakarie Hassan Abdi
 
-🚀 **AI & Software Developer | Somali Language AI Researcher**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Final+Year+University+Student+%F0%9F%8E%93;AI+%26+Software+Developer+%F0%9F%A4%96;Somali+Language+AI+Researcher+%F0%9F%8C%8D" alt="Typing SVG" />
+</p>
 
-I’m a passionate software developer and AI researcher focused on building **Somali language technologies** and modern web applications. I enjoy working on **Speech Recognition, Text-to-Speech, NLP, and Full‑Stack Development**.
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Graduating%20Soon%20%E2%9C%A8-success" />
+  <img src="https://img.shields.io/badge/Open%20to-Internships%20%7C%20Research%20%7C%20Freelance-blue" />
+</p>
 
 ---
 
-## 🧠 About Me
+## 🎓 About Me
 
-* 🎓 Final year university student
-* 🤖 Specialized in **AI for low‑resource languages (Somali)**
-* 🗣️ Built models for **ASR, TTS, and Text Generation**
-* 🌍 Founder / Member of **Mogadishu Hub**
-* ✍️ Love teaching, open‑source, and community work
+* ⭐ **Final year university student — graduating soon**
+* 🤖 **AI & Software Developer**
+* 🗣️ Specialized in **Somali Language AI (ASR, TTS, NLP)**
+* 🚀 Love building **real-world, production-ready systems**
+* 🌍 Community member at **Mogadishu Hub**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
-Python • JavaScript • TypeScript • SQL
+### 💻 Languages
 
-**AI / ML**
-PyTorch • Hugging Face • Wav2Vec2 • Falcon • mT5 • Coqui TTS • XTTS
+Python ⭐⭐⭐⭐☆
+JavaScript ⭐⭐⭐⭐☆
+TypeScript ⭐⭐⭐☆☆
+SQL ⭐⭐⭐☆☆
 
-**Backend**
-FastAPI • Django • Node.js
+### 🤖 AI / ML
 
-**Frontend**
-React • Tailwind CSS • HTML • CSS
+PyTorch ⭐⭐⭐⭐☆
+Hugging Face ⭐⭐⭐⭐☆
+Wav2Vec2 ⭐⭐⭐⭐☆
+Falcon / mT5 ⭐⭐⭐☆☆
+Coqui TTS / XTTS ⭐⭐⭐⭐☆
 
-**DevOps & Tools**
-Git • GitHub • Docker • Linux • Google Colab
+### 🧩 Backend
+
+FastAPI ⭐⭐⭐⭐☆
+Django ⭐⭐⭐⭐☆
+Node.js ⭐⭐⭐☆☆
+
+### 🎨 Frontend
+
+React ⭐⭐⭐⭐☆
+Tailwind CSS ⭐⭐⭐⭐☆
+HTML / CSS ⭐⭐⭐⭐☆
+
+### ⚙️ Tools & DevOps
+
+Git & GitHub ⭐⭐⭐⭐☆
+Docker ⭐⭐⭐☆☆
+Linux ⭐⭐⭐☆☆
+Google Colab ⭐⭐⭐⭐☆
 
 ---
 
 ## 🚀 Featured Projects
 
-🔹 **Somali ASR System**
-Fine‑tuned Wav2Vec2 for Somali speech‑to‑text and deployed as an API.
+✨ **Somali ASR System**
+🎙️ Fine-tuned Wav2Vec2 for Somali speech-to-text and deployed as an API.
 
-🔹 **Somali TTS (Text‑to‑Speech)**
-Coqui XTTS v2 & Microsoft SpeechT5 fine‑tuned for natural Somali voice.
+✨ **Somali TTS (Text-to-Speech)**
+🗣️ Natural Somali voices using Coqui XTTS v2 & SpeechT5.
 
-🔹 **Somali AI Chatbot**
-Falcon 7B & mT5 models trained on Somali Q&A data.
+✨ **Somali AI Chatbot**
+💬 Falcon 7B & mT5 trained on Somali Q&A datasets.
 
-🔹 **HidoStore.com**
-E‑commerce platform promoting Somali culture & heritage.
+✨ **HidoStore.com**
+🛍️ E-commerce platform promoting Somali culture & heritage.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zakihassan04\&show_icons=true\&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zakihassan04&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zakihassan04&theme=tokyonight" height="165" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zakihassan04\&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakihassan04&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
@@ -68,14 +97,16 @@ E‑commerce platform promoting Somali culture & heritage.
 
 ---
 
-## 🤝 Open to
+## 🤝 Open To Opportunities
 
-* Open‑source collaboration
-* AI research (Somali & African languages)
-* Freelance & internship opportunities
+* 🎓 Graduate / Internship roles
+* 🔬 AI Research (Somali & African languages)
+* 💼 Freelance & collaborations
 
 ---
 
-> ⭐ *If you like my work, consider following me and starring my repositories!*
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zakihassan04&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-🇸🇴 **Building AI for Somali & Africa** 💚
+> 🌟 *Building impactful AI for Somali & Africa* 🇸🇴💚
