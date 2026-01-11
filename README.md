@@ -97,6 +97,23 @@ Google Colab ⭐⭐⭐⭐☆
 
 ---
 
+## 🎯 Current Focus
+
+* 📘 **Final Year Project / Thesis:** Somali Language AI (Speech & NLP)
+* 🧪 Improving **ASR & TTS models** for real-world Somali use cases
+* 🚀 Building **production-ready APIs** with FastAPI
+* 🌱 Learning **MLOps & model deployment**
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zakihassan04&theme=onedark&row=1&column=7" />
+</p>
+
+---
+
 ## 🤝 Open To Opportunities
 
 * 🎓 Graduate / Internship roles
